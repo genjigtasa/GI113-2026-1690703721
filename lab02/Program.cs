@@ -1,6 +1,6 @@
 ﻿/*
  * Student ID : 1690703721
- * Name       : Lab02
+ * Name       : Rattanan Rattano
  * Section    : 129D
  * No.        :
  * Course     : GI113 Computer Programming (GI)
